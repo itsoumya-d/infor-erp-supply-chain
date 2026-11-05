@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+src/inforops/__init__.py
+src/inforops/api.py
+src/inforops/cpq.py
+src/inforops/generate.py
+src/inforops/inventory.py
+src/inforops/models.py
+src/inforops/planning.py
+src/inforops.egg-info/PKG-INFO
+src/inforops.egg-info/SOURCES.txt
+src/inforops.egg-info/dependency_links.txt
+src/inforops.egg-info/requires.txt
+src/inforops.egg-info/top_level.txt
+tests/test_api.py
+tests/test_ops.py
